@@ -1,0 +1,17 @@
+Preprocessamento de Dados (data_preprocessing.py):
+
+Carregue os dados.
+Realize a limpeza dos dados (tratamento de valores ausentes, codificação de variáveis categóricas, etc.).
+Divida os dados em conjuntos de treinamento e teste.
+Treinamento do Modelo (model_training.py):
+
+Escolha e treine um modelo de classificação binária (por exemplo, Regressão Logística, Random Forest, etc.).
+Salve o modelo treinado.
+Avaliação do Modelo (model_evaluation.py):
+
+Carregue o modelo treinado.
+Avalie o modelo usando métricas como acurácia, sensibilidade, especificidade, precisão e F1-score.
+Gere relatórios de classificação.
+Utilitários (utils.py):
+
+Inclua funções auxiliares, se necessário.
