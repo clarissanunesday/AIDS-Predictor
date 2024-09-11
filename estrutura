@@ -1,0 +1,20 @@
+aids-classification-model/
+│
+├── data/
+│   ├── AIDS_Classification.csv
+│   ├── AIDS_Classification_5000.csv
+│   ├── AIDS_Classification_15000.csv
+│   └── AIDS_Classification_50000.csv
+│
+├── src/
+│   ├── data_preprocessing.py
+│   ├── model_training.py
+│   ├── model_evaluation.py
+│   └── utils.py
+│
+├── reports/
+│   ├── analysis_report.md
+│   └── specialist_analysis.md
+│
+├── README.md
+└── .gitignore
